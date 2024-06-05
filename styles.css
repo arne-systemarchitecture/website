@@ -2799,4 +2799,8 @@ html {
       font-size: 30px;
       line-height: 30px;
     }
+
+    .cursor-wrapper {
+        pointer-events: none
+    }  
   }
